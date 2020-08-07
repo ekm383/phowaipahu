@@ -7,7 +7,8 @@ class NavBarLinks extends Component {
     links: [
       {
         id: 0,
-        path: "",
+        path:
+          "https://www.grindztogo.com/single.php/order/restaurant/pho-waipahu/44?takeout=1",
         text: "menu",
       },
       {
