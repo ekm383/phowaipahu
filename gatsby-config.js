@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sushiya`,
-    description: `We serve the best Sushi and Poke in Honolulu. Available for takeout, dine-in, or delivery. Sushiya is conveniently located in the heart of Kaimuki with plenty of free parking.`,
-    author: `@sushiya`,
+    title: `Pho Waipahu`,
+    description: `Serving authentic Vietnamese dishes like our house-made Pho, Vermicelli, and BBQ Meat plates. Avaible for dine-in, takeout and delivery. Waipahu's Best Vietnamese Restaurant!`,
+    author: `@phowaipahu`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
