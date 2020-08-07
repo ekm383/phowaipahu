@@ -1,0 +1,16 @@
+[
+  {
+    "restaurant-name": "Pho Waipahu",
+    "intro": "Serving authentic Vietnamese dishes like our house-made Pho, Vermicelli, and BBQ Meat plates. Avaible for dine-in, takeout and delivery. Waipahu's Best Vietnamese Restaurant!",
+    "copyright": "Copyright 2020 Pho Waipahu",
+    "logo": "../images/icon.png",
+    "hours": ["Daily 10:00am - 9:00pm"],
+    "phone": "(808) 671-6985",
+    "street": "94-300 Farrington Hwy #C02",
+    "city": "Waipahu, HI 96797",
+    "facebook": "https://www.facebook.com/pages/category/Pho-Restaurant/PHO-Waipahu-111289770587902/",
+    "instagram": "https://www.instagram.com/phowaipahu/?hl=en",
+    "yelp": "https://www.yelp.com/biz/pho-waipahu-waipahu-3",
+    "menu": ""
+  }
+]
